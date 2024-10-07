@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cemile Beyza Düzen</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A full-stack developer from Turkey</h3>
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **Angular and .NET Core**
 
-- 🌱 I’m currently learning **Flutter and SwiftUI**
-
-- 💬 Ask me about **React**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **beyzaaduzen@gmail.com**
 
